@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-15T06:50:14.431Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="g40yBcrRH9mKrTvUUJKK" version="13.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-15T06:54:18.575Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="hmBiTBuITCt6S41I5U5C" version="13.7.1" type="github">
   <diagram id="2eBaNiK83SsfWGN7OqTg" name="Page-1">
-    <mxGraphModel dx="925" dy="483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="925" dy="449" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -61,7 +61,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="615CvDBMZHt1SZaBTN3t-7" value="지역광고" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontSize=12;" connectable="0" vertex="1" parent="615CvDBMZHt1SZaBTN3t-6">
+        <mxCell id="615CvDBMZHt1SZaBTN3t-7" value="지역 광고&lt;br&gt;게시" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontSize=12;" connectable="0" vertex="1" parent="615CvDBMZHt1SZaBTN3t-6">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1" y="-2.35" as="offset" />
           </mxGeometry>
@@ -121,77 +121,74 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="615CvDBMZHt1SZaBTN3t-16" value="" style="endArrow=classic;html=1;exitX=0.823;exitY=0.095;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="iDiovrbEPyYLWm7U3jqZ-1" target="iDiovrbEPyYLWm7U3jqZ-22">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="430" y="385" as="sourcePoint" />
-            <mxPoint x="693.0799999999999" y="377.62" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="440" y="310" />
-              <mxPoint x="710" y="310" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="615CvDBMZHt1SZaBTN3t-17" value="채팅" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontSize=12;" connectable="0" vertex="1" parent="615CvDBMZHt1SZaBTN3t-16">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="615CvDBMZHt1SZaBTN3t-18" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="730" y="426" as="sourcePoint" />
-            <mxPoint x="465" y="426" as="targetPoint" />
+            <mxPoint x="730" y="418" as="sourcePoint" />
+            <mxPoint x="465" y="418" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="615CvDBMZHt1SZaBTN3t-19" value="동네 생활 글작성" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontSize=12;" connectable="0" vertex="1" parent="615CvDBMZHt1SZaBTN3t-18">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1" as="offset" />
+            <mxPoint x="1" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="615CvDBMZHt1SZaBTN3t-20" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="730" y="460" as="sourcePoint" />
-            <mxPoint x="465" y="460" as="targetPoint" />
+            <mxPoint x="730" y="452" as="sourcePoint" />
+            <mxPoint x="465" y="452" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="615CvDBMZHt1SZaBTN3t-21" value="거래 상대 매너 평가" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontSize=12;" connectable="0" vertex="1" parent="615CvDBMZHt1SZaBTN3t-20">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1" y="1.200000000000001" as="offset" />
+            <mxPoint x="1" y="0.20000000000000107" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="615CvDBMZHt1SZaBTN3t-22" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="730" y="477" as="sourcePoint" />
-            <mxPoint x="460" y="477" as="targetPoint" />
+            <mxPoint x="730" y="469" as="sourcePoint" />
+            <mxPoint x="460" y="469" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="615CvDBMZHt1SZaBTN3t-23" value="거래 상태 및 후기" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontSize=12;" connectable="0" vertex="1" parent="615CvDBMZHt1SZaBTN3t-22">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1" as="offset" />
+            <mxPoint x="1" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="615CvDBMZHt1SZaBTN3t-24" value="" style="endArrow=classic;html=1;entryX=0.917;entryY=0.826;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="iDiovrbEPyYLWm7U3jqZ-1">
+        <mxCell id="615CvDBMZHt1SZaBTN3t-24" value="" style="endArrow=classic;html=1;entryX=0.917;entryY=0.826;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="730" y="495" as="sourcePoint" />
-            <mxPoint x="460" y="495" as="targetPoint" />
+            <mxPoint x="730" y="487" as="sourcePoint" />
+            <mxPoint x="452.54999999999995" y="485.9" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="615CvDBMZHt1SZaBTN3t-25" value="중고 물품 등록" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontSize=12;" connectable="0" vertex="1" parent="615CvDBMZHt1SZaBTN3t-24">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1" as="offset" />
+            <mxPoint x="1" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="615CvDBMZHt1SZaBTN3t-27" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="730" y="442.5" as="sourcePoint" />
-            <mxPoint x="465" y="442.5" as="targetPoint" />
+            <mxPoint x="730" y="434.5" as="sourcePoint" />
+            <mxPoint x="465" y="434.5" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="615CvDBMZHt1SZaBTN3t-28" value="업체 사용 후기" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontSize=12;" connectable="0" vertex="1" parent="615CvDBMZHt1SZaBTN3t-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="615CvDBMZHt1SZaBTN3t-30" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="730" y="502" as="sourcePoint" />
+            <mxPoint x="450" y="500" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="615CvDBMZHt1SZaBTN3t-31" value="채팅" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontSize=12;" connectable="0" vertex="1" parent="615CvDBMZHt1SZaBTN3t-30">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1" as="offset" />
           </mxGeometry>
