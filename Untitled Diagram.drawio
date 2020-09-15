@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-15T13:16:34.674Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="THpxqSR22S5sRGmMiFTf" version="13.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-15T13:22:45.105Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="9F0w8jn-SMNLyLadIXKo" version="13.7.1" type="github">
   <diagram id="2eBaNiK83SsfWGN7OqTg" name="Page-1">
     <mxGraphModel dx="1102" dy="560" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
@@ -37,9 +37,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="615CvDBMZHt1SZaBTN3t-9" value="광고&lt;br&gt;비용" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontSize=16;fontFamily=Do Hyeon;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DDo%2BHyeon;labelBackgroundColor=#FFFFFF;" parent="615CvDBMZHt1SZaBTN3t-8" connectable="0" vertex="1">
+        <mxCell id="615CvDBMZHt1SZaBTN3t-9" value="광고비용 &lt;br&gt;결제 요청" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontSize=16;fontFamily=Do Hyeon;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DDo%2BHyeon;labelBackgroundColor=#FFFFFF;" parent="615CvDBMZHt1SZaBTN3t-8" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1.9800000000000004" y="-24" as="offset" />
+            <mxPoint x="1.9800000000000004" y="-31" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="615CvDBMZHt1SZaBTN3t-10" value="" style="endArrow=classic;html=1;fontFamily=Do Hyeon;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DDo%2BHyeon;" parent="1" edge="1">
@@ -195,6 +195,36 @@
         <mxCell id="K0sjepav5S79el99xd7h-16" value="동네 범위 설정" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontSize=16;labelBackgroundColor=#FFFFFF;fontFamily=Do Hyeon;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DDo%2BHyeon;" parent="K0sjepav5S79el99xd7h-15" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L4SgiP1MxD5cdKtb4Lhz-1" value="결제 시스템" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Do Hyeon;fontSize=17;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DDo%2BHyeon;" vertex="1" parent="1">
+          <mxGeometry x="70" y="620" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="L4SgiP1MxD5cdKtb4Lhz-2" value="" style="endArrow=classic;html=1;fontFamily=Do Hyeon;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DDo%2BHyeon;exitX=0.043;exitY=0.751;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="iDiovrbEPyYLWm7U3jqZ-1" target="L4SgiP1MxD5cdKtb4Lhz-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="478" as="sourcePoint" />
+            <mxPoint x="157.00000000000006" y="625.8199999999999" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="300" y="500" />
+              <mxPoint x="140" y="620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L4SgiP1MxD5cdKtb4Lhz-3" value="광고비용 &lt;br&gt;결제 요청" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontSize=16;fontFamily=Do Hyeon;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DDo%2BHyeon;labelBackgroundColor=#FFFFFF;" connectable="0" vertex="1" parent="L4SgiP1MxD5cdKtb4Lhz-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-30.87" y="10.920000000000002" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L4SgiP1MxD5cdKtb4Lhz-4" value="" style="endArrow=classic;html=1;fontFamily=Do Hyeon;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DDo%2BHyeon;exitX=0.846;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="L4SgiP1MxD5cdKtb4Lhz-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190.00000000000006" y="623.5" as="sourcePoint" />
+            <mxPoint x="340" y="500" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L4SgiP1MxD5cdKtb4Lhz-5" value="결제 결과" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontSize=16;fontFamily=Do Hyeon;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DDo%2BHyeon;labelBackgroundColor=#FFFFFF;" connectable="0" vertex="1" parent="L4SgiP1MxD5cdKtb4Lhz-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="26.89" y="-17.5" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
