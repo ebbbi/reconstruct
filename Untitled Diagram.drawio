@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-15T06:43:18.283Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="Fg5Ru4Cm4QdZPf4N_66y" version="13.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-15T06:48:16.526Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="eIuntAg01GGFGzWqYDew" version="13.7.1" type="github">
   <diagram id="2eBaNiK83SsfWGN7OqTg" name="Page-1">
     <mxGraphModel dx="925" dy="483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,13 +11,13 @@
           <mxGeometry x="330" y="700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iDiovrbEPyYLWm7U3jqZ-22" value="동네 주민" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=17;" parent="1" vertex="1">
-          <mxGeometry x="730" y="415" width="120" height="60" as="geometry" />
+          <mxGeometry x="730" y="415" width="120" height="85" as="geometry" />
         </mxCell>
         <mxCell id="iDiovrbEPyYLWm7U3jqZ-26" value="구매자" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=17;" parent="1" vertex="1">
-          <mxGeometry x="910" y="350" width="120" height="60" as="geometry" />
+          <mxGeometry x="910" y="454" width="70" height="35" as="geometry" />
         </mxCell>
         <mxCell id="iDiovrbEPyYLWm7U3jqZ-27" value="판매자" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=17;" parent="1" vertex="1">
-          <mxGeometry x="910" y="455" width="120" height="60" as="geometry" />
+          <mxGeometry x="910" y="380" width="70" height="35" as="geometry" />
         </mxCell>
         <mxCell id="iDiovrbEPyYLWm7U3jqZ-28" value="" style="endArrow=block;endSize=16;endFill=0;html=1;fontFamily=Helvetica;fontSize=17;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="iDiovrbEPyYLWm7U3jqZ-27" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -56,8 +56,8 @@
         </mxCell>
         <mxCell id="615CvDBMZHt1SZaBTN3t-6" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="392" y="700" as="sourcePoint" />
-            <mxPoint x="392" y="520" as="targetPoint" />
+            <mxPoint x="380" y="700" as="sourcePoint" />
+            <mxPoint x="380" y="520" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
@@ -68,10 +68,10 @@
         </mxCell>
         <mxCell id="615CvDBMZHt1SZaBTN3t-8" value="" style="endArrow=classic;html=1;exitX=0.885;exitY=-0.002;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="428.20000000000005" y="697.8800000000001" as="sourcePoint" />
-            <mxPoint x="428" y="520" as="targetPoint" />
+            <mxPoint x="410.20000000000005" y="700.0000000000001" as="sourcePoint" />
+            <mxPoint x="410" y="522.12" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="428" y="598" />
+              <mxPoint x="410" y="600.12" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -138,8 +138,8 @@
         </mxCell>
         <mxCell id="615CvDBMZHt1SZaBTN3t-18" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="730" y="430" as="sourcePoint" />
-            <mxPoint x="465" y="430" as="targetPoint" />
+            <mxPoint x="730" y="426" as="sourcePoint" />
+            <mxPoint x="465" y="426" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
@@ -150,11 +150,9 @@
         </mxCell>
         <mxCell id="615CvDBMZHt1SZaBTN3t-20" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="730" y="455" as="sourcePoint" />
-            <mxPoint x="465" y="455" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="600" y="470" />
-            </Array>
+            <mxPoint x="730" y="460" as="sourcePoint" />
+            <mxPoint x="465" y="460" as="targetPoint" />
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="615CvDBMZHt1SZaBTN3t-21" value="거래 상대 매너 평가" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="615CvDBMZHt1SZaBTN3t-20">
@@ -164,11 +162,9 @@
         </mxCell>
         <mxCell id="615CvDBMZHt1SZaBTN3t-22" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="730" y="450" as="sourcePoint" />
-            <mxPoint x="465" y="450" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="600" y="510" />
-            </Array>
+            <mxPoint x="730" y="477" as="sourcePoint" />
+            <mxPoint x="460" y="477" as="targetPoint" />
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="615CvDBMZHt1SZaBTN3t-23" value="거래 상태 및 후기" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="615CvDBMZHt1SZaBTN3t-22">
@@ -176,13 +172,11 @@
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="615CvDBMZHt1SZaBTN3t-24" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="615CvDBMZHt1SZaBTN3t-24" value="" style="endArrow=classic;html=1;entryX=0.917;entryY=0.826;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="iDiovrbEPyYLWm7U3jqZ-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="730" y="450" as="sourcePoint" />
-            <mxPoint x="460" y="450" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="600" y="560" />
-            </Array>
+            <mxPoint x="730" y="495" as="sourcePoint" />
+            <mxPoint x="460" y="495" as="targetPoint" />
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="615CvDBMZHt1SZaBTN3t-25" value="중고 물품 등록" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="615CvDBMZHt1SZaBTN3t-24">
@@ -192,8 +186,8 @@
         </mxCell>
         <mxCell id="615CvDBMZHt1SZaBTN3t-27" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="730" y="444.5" as="sourcePoint" />
-            <mxPoint x="465" y="444.5" as="targetPoint" />
+            <mxPoint x="730" y="442.5" as="sourcePoint" />
+            <mxPoint x="465" y="442.5" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
