@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-21T02:27:58.588Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="Qq01Xz-dpKqxMQs7XZi9" version="13.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-21T02:32:59.631Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="fbfWkqQtOst1WZCgxIZM" version="13.7.3" type="github">
   <diagram id="2eBaNiK83SsfWGN7OqTg" name="Page-1">
     <mxGraphModel dx="920" dy="552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
@@ -247,6 +247,12 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="DclSnaKNz0RfbiUWnmVD-19" value="지역 공공기관" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Do Hyeon;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="669" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DclSnaKNz0RfbiUWnmVD-20" value="사용자랑 구매자 구분하는게 나을 것 같음.&lt;br&gt;공공기관 당근마켓 한테 지역 뉴스 알림 그게 사용자에게 전달&lt;br&gt;품앗이 기능...&lt;br&gt;비매너고객 매너 평가...&lt;br&gt;지역 소모임...&lt;br&gt;활동뱃지 많이 모은 사람한테 혜택을 주는 방안" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Do Hyeon;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="90" y="570" width="210" height="350" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
