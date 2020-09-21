@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-21T02:20:06.012Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="EUrdIiONgusFvVLQkiCm" version="13.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-21T02:27:58.588Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="Qq01Xz-dpKqxMQs7XZi9" version="13.7.3" type="github">
   <diagram id="2eBaNiK83SsfWGN7OqTg" name="Page-1">
     <mxGraphModel dx="920" dy="552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
           <mxGeometry x="310" y="700" width="167.14" height="90" as="geometry" />
         </mxCell>
         <mxCell id="iDiovrbEPyYLWm7U3jqZ-26" value="사용자&lt;br&gt;(구매자)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Do Hyeon;fontSize=17;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DDo%2BHyeon;" parent="1" vertex="1">
-          <mxGeometry x="732" y="410" width="148" height="100" as="geometry" />
+          <mxGeometry x="732" y="410" width="177.6" height="120" as="geometry" />
         </mxCell>
         <mxCell id="iDiovrbEPyYLWm7U3jqZ-27" value="판매자" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Do Hyeon;fontSize=17;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DDo%2BHyeon;" parent="1" vertex="1">
           <mxGeometry x="10" y="395" width="147" height="100" as="geometry" />
@@ -23,7 +23,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="615CvDBMZHt1SZaBTN3t-7" value="동네 광고&lt;br style=&quot;font-size: 16px&quot;&gt;게시" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontSize=16;fontFamily=Do Hyeon;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DDo%2BHyeon;labelBackgroundColor=#FFFFFF;" parent="615CvDBMZHt1SZaBTN3t-6" connectable="0" vertex="1">
+        <mxCell id="615CvDBMZHt1SZaBTN3t-7" value="광고/&lt;br&gt;이벤트&lt;br style=&quot;font-size: 16px&quot;&gt;게시" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontSize=16;fontFamily=Do Hyeon;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DDo%2BHyeon;labelBackgroundColor=#FFFFFF;" parent="615CvDBMZHt1SZaBTN3t-6" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-1" y="24" as="offset" />
           </mxGeometry>
@@ -102,7 +102,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="615CvDBMZHt1SZaBTN3t-28" value="업체 사용 후기" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontSize=16;labelBackgroundColor=#FFFFFF;fontFamily=Do Hyeon;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DDo%2BHyeon;" parent="615CvDBMZHt1SZaBTN3t-27" connectable="0" vertex="1">
+        <mxCell id="615CvDBMZHt1SZaBTN3t-28" value="업체 예약 및 사용 후기" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontSize=16;labelBackgroundColor=#FFFFFF;fontFamily=Do Hyeon;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DDo%2BHyeon;" parent="615CvDBMZHt1SZaBTN3t-27" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1" y="-1" as="offset" />
           </mxGeometry>
@@ -224,7 +224,7 @@
         </mxCell>
         <mxCell id="DclSnaKNz0RfbiUWnmVD-10" value="" style="endArrow=classic;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="442" y="510" as="sourcePoint" />
+            <mxPoint x="442" y="500" as="sourcePoint" />
             <mxPoint x="442.35500000000025" y="700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -233,10 +233,10 @@
             <mxPoint x="2" y="14.71" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DclSnaKNz0RfbiUWnmVD-15" value="" style="endArrow=classic;html=1;fontFamily=Do Hyeon;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DDo%2BHyeon;exitX=0.567;exitY=0.015;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="iDiovrbEPyYLWm7U3jqZ-1">
+        <mxCell id="DclSnaKNz0RfbiUWnmVD-15" value="" style="endArrow=classic;html=1;fontFamily=Do Hyeon;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DDo%2BHyeon;" edge="1" parent="1" source="iDiovrbEPyYLWm7U3jqZ-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="413.99999999999994" y="362.65" as="sourcePoint" />
-            <mxPoint x="806" y="410" as="targetPoint" />
+            <mxPoint x="820" y="410" as="targetPoint" />
             <Array as="points">
               <mxPoint x="505" y="240" />
               <mxPoint x="760" y="240" />
