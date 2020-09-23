@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-22T14:14:03.968Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="EMOhfxhY_IX1scwmlQef" version="13.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-23T06:36:18.650Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="Gq0YMgbdfhvHjCIvskXV" version="13.7.4" type="github">
   <diagram id="2eBaNiK83SsfWGN7OqTg" name="Page-1">
-    <mxGraphModel dx="1747" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="1944" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -247,18 +247,18 @@
             <mxPoint x="7.99" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8rarV9E9feeYbixsX1ly-2" value="" style="endArrow=classic;html=1;fontSize=17;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#5B77A1;" edge="1" parent="1" source="DclSnaKNz0RfbiUWnmVD-19" target="iDiovrbEPyYLWm7U3jqZ-1">
+        <mxCell id="8rarV9E9feeYbixsX1ly-2" value="" style="endArrow=classic;html=1;fontSize=17;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#5B77A1;" parent="1" source="DclSnaKNz0RfbiUWnmVD-19" target="iDiovrbEPyYLWm7U3jqZ-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="420" y="340" as="sourcePoint" />
             <mxPoint x="520" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8rarV9E9feeYbixsX1ly-3" value="동네&amp;nbsp;&amp;nbsp;&lt;br style=&quot;font-size: 16px;&quot;&gt;뉴스/이벤트" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontFamily=Do Hyeon;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DDo%2BHyeon;fontSize=16;fontColor=#007FFF;" connectable="0" vertex="1" parent="8rarV9E9feeYbixsX1ly-2">
+        <mxCell id="8rarV9E9feeYbixsX1ly-3" value="동네&amp;nbsp;&amp;nbsp;&lt;br style=&quot;font-size: 16px;&quot;&gt;뉴스/이벤트" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontFamily=Do Hyeon;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DDo%2BHyeon;fontSize=16;fontColor=#007FFF;" parent="8rarV9E9feeYbixsX1ly-2" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8rarV9E9feeYbixsX1ly-4" value="" style="endArrow=classic;html=1;fontFamily=Do Hyeon;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DDo%2BHyeon;entryX=-0.01;entryY=0.624;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#dae8fc;strokeColor=#5B77A1;" edge="1" parent="1" target="f4QaTZTHXKAwovkgsrd5-1">
+        <mxCell id="8rarV9E9feeYbixsX1ly-4" value="" style="endArrow=classic;html=1;fontFamily=Do Hyeon;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DDo%2BHyeon;entryX=-0.01;entryY=0.624;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#dae8fc;strokeColor=#5B77A1;" parent="1" target="f4QaTZTHXKAwovkgsrd5-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="400" y="370" as="sourcePoint" />
             <mxPoint x="650.2" y="221.9096774193548" as="targetPoint" />
@@ -267,19 +267,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="8rarV9E9feeYbixsX1ly-5" value="동네 &lt;br&gt;뉴스/이벤트" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontSize=16;labelBackgroundColor=#FFFFFF;fontFamily=Do Hyeon;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DDo%2BHyeon;rotation=0;fontColor=#007FFF;" connectable="0" vertex="1" parent="8rarV9E9feeYbixsX1ly-4">
+        <mxCell id="8rarV9E9feeYbixsX1ly-5" value="동네 &lt;br&gt;뉴스/이벤트" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontSize=16;labelBackgroundColor=#FFFFFF;fontFamily=Do Hyeon;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DDo%2BHyeon;rotation=0;fontColor=#007FFF;" parent="8rarV9E9feeYbixsX1ly-4" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="3.5500000000000043" y="13.18" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8rarV9E9feeYbixsX1ly-6" value="" style="endArrow=classic;html=1;fontFamily=Do Hyeon;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DDo%2BHyeon;entryX=1.004;entryY=0.654;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="8rarV9E9feeYbixsX1ly-6" value="" style="endArrow=classic;html=1;fontFamily=Do Hyeon;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DDo%2BHyeon;entryX=1.004;entryY=0.654;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="319.28" y="470.25" as="sourcePoint" />
             <mxPoint x="130.00000000000026" y="469.9999999999999" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8rarV9E9feeYbixsX1ly-7" value="활동 뱃지 및 &lt;br&gt;&lt;font color=&quot;#007fff&quot;&gt;지역 혜택&lt;/font&gt; 부여" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontSize=16;labelBackgroundColor=#FFFFFF;fontFamily=Do Hyeon;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DDo%2BHyeon;" connectable="0" vertex="1" parent="8rarV9E9feeYbixsX1ly-6">
+        <mxCell id="8rarV9E9feeYbixsX1ly-7" value="활동 뱃지 및 &lt;br&gt;&lt;font color=&quot;#007fff&quot;&gt;지역 혜택&lt;/font&gt; 부여" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontSize=16;labelBackgroundColor=#FFFFFF;fontFamily=Do Hyeon;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DDo%2BHyeon;" parent="8rarV9E9feeYbixsX1ly-6" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
